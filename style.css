@@ -15,8 +15,34 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    
+
 }
+    
+@media(min-width: 700px) {
+
+   
+  .centro{
+    display: flex;
+    flex-direction: row;
+    margin-top: 100px;
+    justify-content: center;
+    align-items: center;
+  }
+.card{
+   
+}
+
+.p2{
+    display: flex;
+    flex-direction: column;
+    padding-top: 220px;
+    
+    
+
+}
+
+   }
+
 
 .card{
     display: flex;
