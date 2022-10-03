@@ -20,6 +20,12 @@
     
 @media(min-width: 700px) {
 
+ .contrainer2{
+
+    display: flex;
+    margin-right: 200px;
+    margin-left: 250px;
+ }
  
    
   .centro{
