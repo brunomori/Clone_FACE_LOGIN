@@ -27,6 +27,14 @@
     margin-left: 250px;
  }
  
+
+ .imgpai{
+    display: flex;
+    
+    
+ }
+
+ 
    
   .centro{
     
@@ -38,19 +46,15 @@
     align-items: center;
     gap: 50px;
     
+    
   }
 
-.p1{
-    text-align: left;
-    
-}
+
 
 .p2{
     display: flex;
     flex-direction: column;
     padding-top: 0px;
-    align-items: center;
-    
 }
 
 .p3{
