@@ -20,29 +20,44 @@
     
 @media(min-width: 700px) {
 
+ 
    
   .centro{
+    
+    width: 80%;
+    height: 100%;
     display: flex;
     flex-direction: row;
-    margin-top: 100px;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
+    gap: 50px;
+    
   }
-.card{
-   
+
+.p1{
+    text-align: left;
+    
 }
 
 .p2{
     display: flex;
     flex-direction: column;
-    padding-top: 220px;
+    padding-top: 0px;
+    align-items: center;
     
-    
-
 }
 
-   }
+.p3{
+    display: flex;
+  
+}
 
+
+
+border-style: {
+    margin: 100px;
+}
+}
 
 .card{
     display: flex;
